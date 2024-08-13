@@ -11,7 +11,7 @@ O projeto permite que os usuários insiram uma mensagem de texto e a criptografe
 Para rodar o projeto localmente, siga os seguintes passos:
 
 1. Clone o repositório:
-   git clone https://github.com/mayconsalvadev/desafiooraclealura.git
+   git clone https://github.com/mayconsalvadev/desafiooraclealura
 Navegue até o diretório do projeto:
 cd desafiooraclealura
 Abra o arquivo index.html em seu navegador de preferência.
